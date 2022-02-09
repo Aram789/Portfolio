@@ -16778,6 +16778,10 @@ a.pswp__share--download:hover {
 .u-lightbox .u-image,
 .u-lightbox .u-gallery-item {
   cursor: pointer;
+    -webkit-box-shadow: 1px 3px 51px 9px rgba(34, 60, 80, 0.32);
+    -moz-box-shadow: 1px 3px 51px 9px rgba(34, 60, 80, 0.32);
+    box-shadow: 1px 3px 51px 9px rgba(34, 60, 80, 0.32);
+    border-radius: 10px;
 }
 /*end-commonstyles photoswipe-default*/
 /*!
